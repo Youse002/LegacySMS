@@ -21,7 +21,7 @@ Güçlü bir SMSBOMBER
 
 5-) pip install colorama
 
-6-) git clone https://github.com/Youse002/LegacySMS git
+6-) git clone https://github.com/Youse002/LegacySMS
 
 7-) cd LegacySMS
 
