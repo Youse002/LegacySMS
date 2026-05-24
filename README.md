@@ -1,8 +1,11 @@
 # LegacySMS
 Güçlü bir SMSBOMBER
+
+ℹ️2026 GÜNCELLEMESİ
+
 -Çalışmayan ve Gereksiz SMS'ler silindi.
 
--Bilgisayar Aracılığıyla artık pyton indirmeden anında kullanılabilir.
+-Bilgisayar kullanıcıları artık pyton indirmeden anında kullanabilecek.
 
 -Arayüz ve Bilgilendirme eklendi.
 
@@ -11,25 +14,27 @@ Güçlü bir SMSBOMBER
 -Hatalar giderildi.
 
 👨🏻‍💻TERMUX KURULUMU
-1-) pkg install git
 
-2-) pkg install python
+𝟭-) pkg install git
 
-3-) daire yükseltmesi
+𝟮-) pkg install python
 
-4-) uygun güncelleme
+𝟯-) apt upgrade
 
-5-) pip install colorama
+𝟰-) apt update
 
-6-) git clone https://github.com/Youse002/LegacySMS
+𝟱-) pip install colorama
 
-7-) cd LegacySMS
+𝟲-) git clone https://github.com/Youse002/LegacySMS
 
-8-) pip install -r requirements.txt
+𝟳-) cd LegacySMS
 
-9-) python LegacySMS.py
+𝟴-) pip install -r requirements.txt
+
+𝟵-) python LegacySMS.py
 
 📜YASAL AÇIKLAMA
-𝗦𝗢𝗥𝗨𝗠𝗟𝗨𝗟𝗨𝗞 𝗥𝗘𝗗𝗗𝗜̇ 𝗕𝗘𝗬𝗔𝗡𝗜 (??? 𝗧𝗲𝘀𝘁𝗶𝗻𝗴 (Script)
 
-𝗨𝗬𝗔𝗥𝗜: Bu Tool yalnızca eğitimsel ve yasal test ortamlarında kullanım amacıyla geliştirilmiştir. Bu Tool'un amacı, siber güvenlik, yazılım geliştirme ve iletişimin sürekliliğini sağlamak, sistem maliyetlerini analiz etmek ve güvenlik testlerine katkı sağlamak amacıyla eğitimsel bir örnek sunmaktır. Kodun hiçbir şekilde promosyon kullanımı teşvik edilmemektedir.
+𝗦𝗢𝗥𝗨𝗠𝗟𝗨𝗟𝗨𝗞 𝗥𝗘𝗗𝗗𝗜̇ 𝗕𝗘𝗬𝗔𝗡𝗜 (𝗗𝗶𝘀𝗰𝗹𝗮𝗶𝗺𝗲𝗿𝘀 𝗳𝗼𝗿 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗦𝗠𝗦 𝗧𝗲𝘀𝘁𝗶𝗻𝗴 𝗦𝗰𝗿𝗶𝗽𝘁)
+
+𝗨𝗬𝗔𝗥𝗜: Bu Tool yalnızca eğitimsel ve yasal test ortamlarında kullanım amacıyla geliştirilmiştir. Bu Tool'un amacı, siber güvenlik, yazılım geliştirme ve ağ iletişimi konularında farkındalık yaratmak, sistem davranışlarını analiz etmek ve güvenlik testlerine katkı sağlamak amacıyla eğitimsel bir örnek sunmaktır. Kodun hiçbir şekilde kötüye kullanımı teşvik edilmemektedir.
