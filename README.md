@@ -29,11 +29,13 @@ Güçlü bir SMSBOMBER
 
 𝟳-) cd LegacySMS
 
-8-) cd LegacySMS-main
+8-) ls
 
-9-) pip install -r requirements.txt
+9-) cd LegacySMS-main
 
-10-) python LegacySMS.py
+10-) pip install -r requirements.txt
+
+11-) python LegacySMS.py
 
 📜YASAL AÇIKLAMA
 
